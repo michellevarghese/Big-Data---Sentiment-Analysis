@@ -49,4 +49,37 @@ between the results from the two activation functions for MultilayerPerceptron i
 when compared to the predictions made by linear classification.
 5. Decreasing order of accuracy: MLP > MNB > SGD > Perceptron.
 
+# Performance of the two activation functions in terms of accuracy:
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/5a11eb26-b419-4a47-82f8-9d0446ab673d)
+
+
+# Plots without stop words removal:
+
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/6f10e5d5-b9f7-4c06-b818-123dcfbb53a6)
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/2fad0ed5-c5a7-45c1-80b2-caeeb09e44f4)
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/a6009389-cce8-42ce-be10-720b3b6b34c9)
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/205eb226-697a-4a91-8e64-d475880e21a7)
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/9bed6072-9999-4aa6-8068-ec03c36a0517)
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/c173c857-2de4-469b-b745-56e0aeade06e)
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/eb3080f8-45d5-4a73-a651-c035e236a0eb)
+
+
+
+
+
+
+
+# Plots with stop words removal :
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/02b32728-ab8e-43ab-94b8-1b80c541d22d)
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/c4e7aff1-891f-4f49-88ab-4d58fb5ff76e)
+
+
+
+# Clustering for predictions made for the classes the tweets belong to
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/7a7d4d46-acd1-4343-bbe4-7c01cf403eb2)
+
+
+# Clustering for true class values that the tweets belong to:
+![image](https://github.com/michellevarghese/Big-Data---Sentiment-Analysis/assets/73420769/a8785deb-b371-41c3-b10c-190ebba37632)
+
 
